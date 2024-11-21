@@ -1,0 +1,6 @@
+@miniTaskAPI_HostAddress = http://localhost:5201
+
+GET {{miniTaskAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
